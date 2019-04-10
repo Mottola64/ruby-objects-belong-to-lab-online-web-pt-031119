@@ -5,3 +5,4 @@ def initialize(title)
   @title = title
   author.title << self
 end
+end
